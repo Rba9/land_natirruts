@@ -1,0 +1,9 @@
+body, .jumbotron{
+   background-color: #607E04;
+}
+.cor{
+  background-color: orange;
+}
+.with_border{
+  border: solid;
+}
